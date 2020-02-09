@@ -53,7 +53,7 @@ Pclass
 2    0.472826
 3    0.242363
 
-Wplyw na przeżycie miał również status społeczny. Im wyższy status tym większy
+Wpływ na przeżycie miał również status społeczny. Im wyższy status tym większy
 odsetek osób, które przetrwały katastrofę. Im wyższa klasa społeczna tym ok 20%
 większe przeżycie. 
 """
@@ -65,7 +65,7 @@ Sex
 female  0.968085  0.921053  0.500000
 male    0.368852  0.157407  0.135447
 
-Najwększe przeżycie było wśród kobiet z klasy wyższej (97% ocalałych) 
+Największe przeżycie było wśród kobiet z klasy wyższej (97% ocalałych) 
 i średniej (92% ocalałych). Kobiety w klasie niższej miały zaledwie 50% 
 przeżywalność. W zdecydowanie gorszej sytuacji znaleźli się mężczyźni. Około 
 35% mężczyzn z klasy wyższej przetrwało katastrofę. W klasie średniej i niższej 
@@ -82,7 +82,7 @@ female (0, 17]    0.690909
 male   (0, 17]    0.396552
        (17, 100]  0.177215
 
-Jeżeli chodzi o wiek to nie miał on dużego wpływu na przeżycie pasażerów płuci 
+Jeżeli chodzi o wiek to nie miał on dużego wpływu na przeżycie pasażerów płci 
 żeńskiej, natomiast w przeżyciu mężczyzn odrygwał znaczącą rolę. Ponad dwa razy 
 więcej ocalałych mężczyzn to osoby poniżej 17 roku życia.
 """
